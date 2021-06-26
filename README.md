@@ -30,6 +30,7 @@ A cross-platform [SFML](https://www.sfml-dev.org) 2.5.1 & C++17 build environmen
 - [SFML 2.5.1 - GCC 7.3.0 MinGW (DW2) 32-bit (for Windows)](https://www.sfml-dev.org/files/SFML-2.5.1-windows-gcc-7.3.0-mingw-32-bit.zip)
 - [GCC 7.3.0 MinGW (DW2) 32-bit (for Windows)](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/7.3.0/threads-posix/dwarf/i686-7.3.0-release-posix-dwarf-rt_v5-rev0.7z/download)
 - [Git Bash (for Windows) ](https://git-scm.com/downloads)
+- Ensure, where appropriate, that any support software is added to PATH.
 
 ### MacOS
 
